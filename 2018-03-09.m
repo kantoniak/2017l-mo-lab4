@@ -66,7 +66,9 @@ A.\B
 C^2   % potegowanie macierzy
 C.^2  % potegowanie wyrazow w macierzy
 
-% Uwaga do macierzy odwrotnych: A/B to nie jest dokładnie to samo co A*inv(B) - program wybiera algorytm zależny od własności konkretnej macierzy i reprezentowana wartość może być nieco inna. Na przykład, przy mnożeniu A\b=x => Ax=b, rozwiązujemy układ równań co jest łatwiejsze niż liczenie inv
+% Uwaga do macierzy odwrotnych: A/B to nie jest dokładnie to samo co A*inv(B) - program wybiera algorytm zależny od własności konkretnej
+% macierzy i reprezentowana wartość może być nieco inna. Na przykład, przy mnożeniu A\b=x => Ax=b, rozwiązujemy układ równań co jest
+% łatwiejsze niż liczenie odwrotności.
 
 % Wektoryzacja - większość funkcji obsługuje macierz jako argument, wtedy wartości są liczone dla każdego wyrazu.
 sin(A)
