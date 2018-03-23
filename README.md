@@ -21,4 +21,5 @@ Repozytorium z moimi notatkami z labolatorium z Matematyki Obliczeniowej w semes
 ## Zajęcia
 
 * [2018-03-09.m](2018-03-09.m): Wprowadzenie, macierze, rysowanie wykresów
+* [2018-03-23.m](2018-03-23.m): Skrypty i funkcje, eliminacja Gaussa
 
