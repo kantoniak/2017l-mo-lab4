@@ -6,6 +6,7 @@ Repozytorium z moimi notatkami z labolatorium z Matematyki Obliczeniowej w semes
 
 * [2018-03-09.m](2018-03-09.m): Wprowadzenie, macierze, rysowanie wykresów
 * [2018-03-23.m](2018-03-23.m): Skrypty i funkcje, eliminacja Gaussa
+* [2018-04-06.m](2018-04-06.m): Ortonormalizacja Grama-Schmidta _(dzięki Paweł za notatki!)_
 
 ## Zadanie labolatoryjne
 
@@ -27,6 +28,3 @@ Termin oddania: 1 czerwca
 
 1. W lewej kolumnie `Current Folder` przejdź do głównego folderu wypakowanego z ZIPa;
 2. Wykonaj `run('data-zajec.m')` w konsoli, np. `run('2018-03-09.m')`.
-
-
-
