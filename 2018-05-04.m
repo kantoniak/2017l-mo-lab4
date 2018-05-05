@@ -9,7 +9,7 @@ oldFolder = cd('2018-05-04'); % Zmieniamy folder roboczy na ten dotyczący zaję
 X = [-10, -2 ,1, 2, 5, 7, 20];
 Y = [3, 3, 1, 7, 3, 3, 3];
 
-% Wykres funkcji przypomina uderzenie serca, z minimum równym 1 i
+% Wykres funkcji przypomina elektrokardiogram, z minimum równym 1 i
 % maksimum równym 7 (spójrz na wykres-funkcji.pdf)
 % plot(X, Y);
 
@@ -19,7 +19,7 @@ X1 = linspace(-10, 20, 257);
 Y1 = polyval(A, X1);
 
 % Wykres przybliżenia kompletnie nie przypomina początkowej funkcji,
-% w pewnych miejscach maksimum grubo przekracza 100 kiedy max funkcji
+% w pewnych miejscach maksimum grubo przekracza 1000 kiedy max funkcji
 % to 7 (spójrz na wykres-przyblizenia.pdf)
 % plot(X1, Y1);
 
