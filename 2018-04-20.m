@@ -1,4 +1,4 @@
-% Lab 2, 2018-04-20
+% Lab 4, 2018-04-20
 oldFolder = cd('2018-04-20'); % Zmieniamy folder roboczy na ten dotyczący zajęć. Dzięki temu możemy ładować funkcje z plików.
 
 % PRZYPOMNIENIE - ROZWIĄZYWANIE UKŁADÓW RÓWNAŃ
