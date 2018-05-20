@@ -9,6 +9,7 @@ Repozytorium z moimi notatkami z labolatorium z Matematyki Obliczeniowej w semes
 * [2018-04-06.m](2018-04-06.m): Ortonormalizacja Grama-Schmidta _(dzięki za notatki, Pawle!)_
 * [2018-04-20.m](2018-04-20.m): Rozkłady QR, interpolacja wielomianowa
 * [2018-05-04.m](2018-05-04.m): Interpolacja z węzłami liniowymi i węzłami Czebyszewa _(na podstawie notatek Pawła, dzięki!)_
+* [2018-05-18.m](2018-05-18.m): Całkowanie numeryczne: kwadratura prostokątów, trapezów, parabol, adaptacyjna
 
 ## Zadanie labolatoryjne
 
